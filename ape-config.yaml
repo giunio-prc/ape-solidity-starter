@@ -2,3 +2,7 @@ name: ape-solidity-start
 
 solidity:
   version: 0.8.30
+
+compile:
+  output_extra:
+     - ABI
