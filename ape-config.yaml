@@ -1,0 +1,4 @@
+name: ape-solidity-start
+
+solidity:
+  version: 0.8.30
